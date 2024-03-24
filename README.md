@@ -33,11 +33,20 @@ Activision Blizzard has impacted the gaming community in a positive way with the
 * Activision Blizzard is one of the top 5 gaming developing companies in the world. It does place at number five behind Apple Inc in fourth, Microsoft Corporation (Xbox) in third, Sony Corporation (Playstation) in second, and Tencent Holding Limited (Mobile Games) in first.
 ## Recommendations
 **If you were to advise the company, what products or services would you suggest they offer?**
+
 *If I was to advise Activision Blizzard on what they should do to help with their AI for gaming development in the future I would bring up the idea of individual NPC’s being able to hold certain conversations so that the game seems endless and is able to grow. They already have this a little in other games like Balder’s Gate 3 which require certain interactions to proceed forward with that NPC’s story.
-* Why do you think that offering this product or service would benefit the company?
+
+**Why do you think that offering this product or service would benefit the company?**
+
 * By doing this the player themselves would be required to invest more time and money into the game to get the full experience of the game. More time to complete the game means more time that the consumer is spending to on the and if they were to monetize the game with a monthly subscription, like they do with World of Warcraft, that will help increase the revenue.
+* 
 **What technologies would this additional product or service utilize?**
+  
 * By implementing NPC AI as a selling point for their new games (Product) Activision Blizzard will need to have AI Programmers to program generative AI for each individual NPC in the game. With Python they will need to program the generative AI and utilize Python.
+* 
 **Why are these technologies appropriate for your solution?**
+  
 *By using Python to program a generative AI they will be able to implement this program into their future products. Once they complete the NPC Generative AI program they will also be able to sell it to their competitors for a profit. This can be a product that is used to change to gaming industry for the better.
+
+
 >You can add here references 
