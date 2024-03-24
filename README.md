@@ -72,4 +72,4 @@
 * By using Python to program a generative AI they will be able to implement this program into their future products. Once they complete the NPC Generative AI program they will also be able to sell it to their competitors for a profit. This can be a product that is used to change to gaming industry for the better.
 
 
->You can add here references 
+> Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources used, but it does not need to be a formal works cited page.
