@@ -1,27 +1,27 @@
 # ai-case-study
 
 # Artificial Intelligence in the Gaming Industry
-** In this case study I will be describing the impact that Artificial Intelligence (AI) is making when designing games when it comes to None Player Characters (NPC’s), artwork, layout of the games, designing objectives, and writing the story. The company chosen will be Blizzard Entertainment. Blizzard Entertainment has been an innovative company that has made huge impacts in the gaming industry by releasing games such as Overwatch, Diablo, Warcraft, and my personal favorite World of Warcraft (WOW). Blizzard had merged with another well known gaming company back in 2023, that company is Activision. Activision is known for the Call of Duty games which is one of the best first person shooter’s (FPS) games to be released. This merger happened in 2023 changing the overall name of the two companies to Activision Blizzard. Activision Blizzard is known as a triple A company for the type of products they release.**
+**In this case study I will be describing the impact that Artificial Intelligence (AI) is making when designing games when it comes to None Player Characters (NPC’s), artwork, layout of the games, designing objectives, and writing the story. The company chosen will be Blizzard Entertainment. Blizzard Entertainment has been an innovative company that has made huge impacts in the gaming industry by releasing games such as Overwatch, Diablo, Warcraft, and my personal favorite World of Warcraft (WOW). Blizzard had merged with another well known gaming company back in 2023, that company is Activision. Activision is known for the Call of Duty games which is one of the best first person shooter’s (FPS) games to be released. This merger happened in 2023 changing the overall name of the two companies to Activision Blizzard. Activision Blizzard is known as a triple A company for the type of products they release.**
 * [Activision Blizzard](https://www.activisionblizzard.com/)
 * Activision was founded on October 1 1979, Blizzard was founded on February 8, 1991, Activision Blizzard was founded on October 13, 2023
 * Activision was founded by Alan Miller, Bob Whitehead, David Crane, Jim Levy, and Larry Kaplan. Blizzard was founded by Allen Adham, Frank Pearce, and Michael Morhaime.
 * Activision was founded by a group of Atari game developers who were upset with management because they weren’t allowing them to design the games how they wanted to. Blizzard was founded by a group of UCLA students who were interested in developing their own electronic games
 * Activision Blizzard has received $4.47 billion in funding across 233 funding rounds with 637 investors.
 ## Activision Blizzard’s Activities
-* What specific problem is the company or project trying to solve?
+**What specific problem is the company or project trying to solve?**
 * Activision Blizzard has a lot of problems developing their new AI program because they’re having to start it from nothing. This project is looking to change the way games are developed in the future by optimizing the amount of time it will take to create games. By using AI they’re hoping to expedite the amount time for game release dates, updates for patches to fix problems with the games and for designing artwork and the layout of the environment. With Activision Blizzard wanting to have AI do all of these things when designing games they’re keeping all of the coding private because they’re worried about leaking their code and companies taking the AI and using it to design their own games in the future.
-* Who is the company’s intended customer? Is there any information about the market size of this set of customers?
+**Who is the company’s intended customer? Is there any information about the market size of this set of customers?**
 * Their intended customer for their games would be individuals who are looking to purchase their products for entertainment. As for their AI the intended customer is Blizzard and their many smaller game studios that are under their umbrella.
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+**What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
 * An unfair advantage that Activision Blizzard has over their competitors is that they have the funding and reputation to make sure that the AI that they intend to design will have the best AI developers, Coders, and Programmers which will lead to hopefully one of the best AI’s in designing games. With Activision Blizzard owning many smaller gaming studios they intend to use this to assist them when releasing other projects.
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing. You may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+**Which technologies are they currently using, and how are they implementing them?**
 *Currently Activision Blizzard has their gaming AI under strict lock and key, but they do use AI in another way. Hate speech has been a critics go to when talking negatively about the games that Activision Blizzard has released over the years mostly in Call of Duty. Activision Blizzard has developed AI to go through the game chats of the matches hosted in Call of Duty to find the usernames that use hate speech and ban them from their servers.
 ## Activision Blizzards Landscape
-* What field is the company in?
+**What field is the company in?**
 *Gaming Development
-* What have been the major trends and innovations of this field over the last 5-10 years?
+**What have been the major trends and innovations of this field over the last 5-10 years?**
 *Most of the major trends talked about with Activision Blizzard is how poorly their releases have been from the launch. A lot of their new gaming titles have felt like the games are incomplete by most of the consumers. While later you do get a full game from updates and patches. A lot of the consumers of their products feel as if they should take their time before releasing an incomplete game. Activision Blizzard is hoping to fix this problem by implementing AI to help express some of the coding required to complete their projects.
-* What are the other major companies in this field?
+**What are the other major companies in this field?**
 * Other major companies in the gaming industry is Riot Gaming, Epic Gaming, Bethesda, Square Enix and Larian Studios.
 ## Activision Blizzard Results
 * What has been the business impact of this company so far?
