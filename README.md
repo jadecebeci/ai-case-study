@@ -2,7 +2,7 @@
 
 # Artificial Intelligence in the Gaming Industry
 ** In this case study I will be describing the impact that Artificial Intelligence (AI) is making when designing games when it comes to None Player Characters (NPC’s), artwork, layout of the games, designing objectives, and writing the story. The company chosen will be Blizzard Entertainment. Blizzard Entertainment has been an innovative company that has made huge impacts in the gaming industry by releasing games such as Overwatch, Diablo, Warcraft, and my personal favorite World of Warcraft (WOW). Blizzard had merged with another well known gaming company back in 2023, that company is Activision. Activision is known for the Call of Duty games which is one of the best first person shooter’s (FPS) games to be released. This merger happened in 2023 changing the overall name of the two companies to Activision Blizzard. Activision Blizzard is known as a triple A company for the type of products they release.**
-* Activision [Blizzard](https://www.activisionblizzard.com/)
+* [Activision Blizzard](https://www.activisionblizzard.com/)
 * Activision was founded on October 1 1979, Blizzard was founded on February 8, 1991, Activision Blizzard was founded on October 13, 2023
 * Activision was founded by Alan Miller, Bob Whitehead, David Crane, Jim Levy, and Larry Kaplan. Blizzard was founded by Allen Adham, Frank Pearce, and Michael Morhaime.
 * Activision was founded by a group of Atari game developers who were upset with management because they weren’t allowing them to design the games how they wanted to. Blizzard was founded by a group of UCLA students who were interested in developing their own electronic games
