@@ -23,13 +23,13 @@
   
 **Which technologies are they currently using, and how are they implementing them?**
 
-*Currently Activision Blizzard has their gaming AI under strict lock and key, but they do use AI in another way. Hate speech has been a critics go to when talking negatively about the games that Activision Blizzard has released over the years mostly in Call of Duty. Activision Blizzard has developed AI to go through the game chats of the matches hosted in Call of Duty to find the usernames that use hate speech and ban them from their servers.
+* Currently Activision Blizzard has their gaming AI under strict lock and key, but they do use AI in another way. Hate speech has been a critics go to when talking negatively about the games that Activision Blizzard has released over the years mostly in Call of Duty. Activision Blizzard has developed AI to go through the game chats of the matches hosted in Call of Duty to find the usernames that use hate speech and ban them from their servers.
 
 ## Activision Blizzards Landscape
 
 **What field is the company in?**
 
-*Gaming Development
+* Gaming Development
 
 **What have been the major trends and innovations of this field over the last 5-10 years?**
 
@@ -69,7 +69,7 @@
   
 **Why are these technologies appropriate for your solution?**
   
-*By using Python to program a generative AI they will be able to implement this program into their future products. Once they complete the NPC Generative AI program they will also be able to sell it to their competitors for a profit. This can be a product that is used to change to gaming industry for the better.
+* By using Python to program a generative AI they will be able to implement this program into their future products. Once they complete the NPC Generative AI program they will also be able to sell it to their competitors for a profit. This can be a product that is used to change to gaming industry for the better.
 
 
 >You can add here references 
