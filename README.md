@@ -10,15 +10,19 @@
 > Activision Blizzard has received $4.47 billion in funding across 233 funding rounds with 637 investors.
 ## Activision Blizzard’s Activities
 **What specific problem is the company or project trying to solve?**
+
 * Activision Blizzard has a lot of problems developing their new AI program because they’re having to start it from nothing. This project is looking to change the way games are developed in the future by optimizing the amount of time it will take to create games. By using AI they’re hoping to expedite the amount time for game release dates, updates for patches to fix problems with the games and for designing artwork and the layout of the environment. With Activision Blizzard wanting to have AI do all of these things when designing games they’re keeping all of the coding private because they’re worried about leaking their code and companies taking the AI and using it to design their own games in the future.
   
 **Who is the company’s intended customer? Is there any information about the market size of this set of customers?**
+
 * Their intended customer for their games would be individuals who are looking to purchase their products for entertainment. As for their AI the intended customer is Blizzard and their many smaller game studios that are under their umbrella.
   
 **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)**
+
 * An unfair advantage that Activision Blizzard has over their competitors is that they have the funding and reputation to make sure that the AI that they intend to design will have the best AI developers, Coders, and Programmers which will lead to hopefully one of the best AI’s in designing games. With Activision Blizzard owning many smaller gaming studios they intend to use this to assist them when releasing other projects.
   
 **Which technologies are they currently using, and how are they implementing them?**
+
 *Currently Activision Blizzard has their gaming AI under strict lock and key, but they do use AI in another way. Hate speech has been a critics go to when talking negatively about the games that Activision Blizzard has released over the years mostly in Call of Duty. Activision Blizzard has developed AI to go through the game chats of the matches hosted in Call of Duty to find the usernames that use hate speech and ban them from their servers.
 
 ## Activision Blizzards Landscape
