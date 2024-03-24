@@ -6,7 +6,7 @@
 * Activision was founded on October 1 1979, Blizzard was founded on February 8, 1991, Activision Blizzard was founded on October 13, 2023
 * Activision was founded by Alan Miller, Bob Whitehead, David Crane, Jim Levy, and Larry Kaplan. Blizzard was founded by Allen Adham, Frank Pearce, and Michael Morhaime.
 * Activision was founded by a group of Atari game developers who were upset with management because they weren’t allowing them to design the games how they wanted to. Blizzard was founded by a group of UCLA students who were interested in developing their own electronic games
-* Activision Blizzard has received $4.47 billion in funding across 233 funding rounds with 637 investors.
+  ```Activision Blizzard has received $4.47 billion in funding across 233 funding rounds with 637 investors.```
 ## Activision Blizzard’s Activities
 **What specific problem is the company or project trying to solve?**
 * Activision Blizzard has a lot of problems developing their new AI program because they’re having to start it from nothing. This project is looking to change the way games are developed in the future by optimizing the amount of time it will take to create games. By using AI they’re hoping to expedite the amount time for game release dates, updates for patches to fix problems with the games and for designing artwork and the layout of the environment. With Activision Blizzard wanting to have AI do all of these things when designing games they’re keeping all of the coding private because they’re worried about leaking their code and companies taking the AI and using it to design their own games in the future.
