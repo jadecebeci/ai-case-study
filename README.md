@@ -73,3 +73,5 @@
 
 
 > Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources used, but it does not need to be a formal works cited page.
+
+> Remember to cite all your sources at the end of the report.
