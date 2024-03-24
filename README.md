@@ -4,7 +4,8 @@
 **In this case study I will be describing the impact that Artificial Intelligence (AI) is making when designing games when it comes to None Player Characters (NPC’s), artwork, layout of the games, designing objectives, and writing the story. The company chosen will be Blizzard Entertainment. Blizzard Entertainment has been an innovative company that has made huge impacts in the gaming industry by releasing games such as Overwatch, Diablo, Warcraft, and my personal favorite World of Warcraft (WOW). Blizzard had merged with another well known gaming company back in 2023, that company is Activision. Activision is known for the Call of Duty games which is one of the best first person shooter’s (FPS) games to be released. This merger happened in 2023 changing the overall name of the two companies to Activision Blizzard. Activision Blizzard is known as a triple A company for the type of products they release.**
 * [Activision Blizzard](https://www.activisionblizzard.com/)
 * Activision was founded on October 1 1979, Blizzard was founded on February 8, 1991, Activision Blizzard was founded on October 13, 2023
-* Activision was founded by `Alan Miller`, `Bob Whitehead`, `David Crane`, `Jim Levy`,`and `Larry Kaplan`. Blizzard was founded by `Allen Adham`, `Frank Pearce`, and `Michael Morhaime`.
+* Activision was founded by `Alan Miller`, `Bob Whitehead`, `David Crane`, `Jim Levy`, and `Larry Kaplan`.
+* Blizzard was founded by `Allen Adham`, `Frank Pearce`, and `Michael Morhaime`.
 * Activision was founded by a group of Atari game developers who were upset with management because they weren’t allowing them to design the games how they wanted to. Blizzard was founded by a group of UCLA students who were interested in developing their own electronic games
 > Activision Blizzard has received $4.47 billion in funding across 233 funding rounds with 637 investors.
 ## Activision Blizzard’s Activities
@@ -31,11 +32,12 @@ Activision Blizzard has impacted the gaming community in a positive way with the
 * How is your company performing relative to competitors in the same field?
 * Activision Blizzard is one of the top 5 gaming developing companies in the world. It does place at number five behind Apple Inc in fourth, Microsoft Corporation (Xbox) in third, Sony Corporation (Playstation) in second, and Tencent Holding Limited (Mobile Games) in first.
 ## Recommendations
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+**If you were to advise the company, what products or services would you suggest they offer?**
 *If I was to advise Activision Blizzard on what they should do to help with their AI for gaming development in the future I would bring up the idea of individual NPC’s being able to hold certain conversations so that the game seems endless and is able to grow. They already have this a little in other games like Balder’s Gate 3 which require certain interactions to proceed forward with that NPC’s story.
 * Why do you think that offering this product or service would benefit the company?
 * By doing this the player themselves would be required to invest more time and money into the game to get the full experience of the game. More time to complete the game means more time that the consumer is spending to on the and if they were to monetize the game with a monthly subscription, like they do with World of Warcraft, that will help increase the revenue.
-* What technologies would this additional product or service utilize?
+**What technologies would this additional product or service utilize?**
 * By implementing NPC AI as a selling point for their new games (Product) Activision Blizzard will need to have AI Programmers to program generative AI for each individual NPC in the game. With Python they will need to program the generative AI and utilize Python.
-* Why are these technologies appropriate for your solution?
+**Why are these technologies appropriate for your solution?**
 *By using Python to program a generative AI they will be able to implement this program into their future products. Once they complete the NPC Generative AI program they will also be able to sell it to their competitors for a profit. This can be a product that is used to change to gaming industry for the better.
+>You can add here references 
