@@ -29,21 +29,23 @@
 Activision Blizzard has impacted the gaming community in a positive way with the use of their AI in hate speech in their games. While the hate speech is still going on in these games the gamers that have been targeted by hate speech do feel better about returning to the games because they feel safer knowing there are still consequences for those who target them. By these customers feeling safer they’re more willing to buy their products which will boost their revenue.
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 *Even though Activision Blizzard is one of the top 5 game developing companies in the world they’re owned by Microsoft. Microsoft owns many gaming studios and they view their gaming success through the amount of revenue the games bring in. Activision Blizzard has developed one of, if not the best, massive multiplayer online role playing games (MMORPG) to ever be produced with World of Warcraft (WOW). World of Warcraft has generated $9.23 billion in revenue for Blizzard since its release date on November 23, 2004. This is viewed as one of the biggest successes in gaming history by the players and Microsoft as well.
-* How is your company performing relative to competitors in the same field?
-* Activision Blizzard is one of the top 5 gaming developing companies in the world. It does place at number five behind Apple Inc in fourth, Microsoft Corporation (Xbox) in third, Sony Corporation (Playstation) in second, and Tencent Holding Limited (Mobile Games) in first.
+**How is your company performing relative to competitors in the same field?**
+
+* Activision Blizzard is one of the top 5 gaming developing companies in the world. It does place at number five behind [Apple Inc](https://en.wikipedia.org/wiki/Apple_Inc.) in fourth, [Microsoft Corporation (Xbox)](https://en.wikipedia.org/wiki/Xbox) in third, [Sony Corporation (Playstation)](https://en.wikipedia.org/wiki/PlayStation) in second, and [Tencent Holding Limited (Mobile Games)](https://en.wikipedia.org/wiki/Tencent)in first.
+
 ## Recommendations
 **If you were to advise the company, what products or services would you suggest they offer?**
 
-*If I was to advise Activision Blizzard on what they should do to help with their AI for gaming development in the future I would bring up the idea of individual NPC’s being able to hold certain conversations so that the game seems endless and is able to grow. They already have this a little in other games like Balder’s Gate 3 which require certain interactions to proceed forward with that NPC’s story.
+* If I was to advise Activision Blizzard on what they should do to help with their AI for gaming development in the future I would bring up the idea of individual NPC’s being able to hold certain conversations so that the game seems endless and is able to grow. They already have this a little in other games like Balder’s Gate 3 which require certain interactions to proceed forward with that NPC’s story.
 
 **Why do you think that offering this product or service would benefit the company?**
 
 * By doing this the player themselves would be required to invest more time and money into the game to get the full experience of the game. More time to complete the game means more time that the consumer is spending to on the and if they were to monetize the game with a monthly subscription, like they do with World of Warcraft, that will help increase the revenue.
-* 
+ 
 **What technologies would this additional product or service utilize?**
   
 * By implementing NPC AI as a selling point for their new games (Product) Activision Blizzard will need to have AI Programmers to program generative AI for each individual NPC in the game. With Python they will need to program the generative AI and utilize Python.
-* 
+  
 **Why are these technologies appropriate for your solution?**
   
 *By using Python to program a generative AI they will be able to implement this program into their future products. Once they complete the NPC Generative AI program they will also be able to sell it to their competitors for a profit. This can be a product that is used to change to gaming industry for the better.
